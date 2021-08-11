@@ -570,7 +570,7 @@
 						m_Comment = ""
 						m_name = "Secondary Bass MD"
 						m_flVolume1 = 1.0
-						m_flVolume2 = 0.486449
+						m_flVolume2 = 0.889969
 						m_flVolume3 = 1.0
 						m_flVolume4 = 1.0
 						m_flVolume5 = 1.0
@@ -672,7 +672,7 @@
 						_class = "CMixAmp"
 						m_Comment = ""
 						m_name = "audio.Amp5"
-						m_flVolume = 0.636361
+						m_flVolume = 0.81283
 					}
 				},
 				{
@@ -835,7 +835,7 @@
 						_class = "CMixControlInput"
 						m_Comment = ""
 						m_name = "Voc 1/2"
-						m_flDefaultValue = 1.0
+						m_flDefaultValue = 0.0
 						m_flMinRange = 0.0
 						m_flMaxRange = 1.0
 						m_bUseDecibels = false
@@ -1026,16 +1026,16 @@
 				XAxis = 
 				{
 					pos = 0.0
-					min = -99111.0
-					max = 101442.0
-					scale = 1.008714
+					min = -139480.0
+					max = 142902.0
+					scale = 1.417782
 				}
 				YAxis = 
 				{
 					pos = 0.0
-					min = -101633.0
-					max = 99524.0
-					scale = 1.008714
+					min = -143543.0
+					max = 139434.0
+					scale = 1.417782
 				}
 			}
 			m_Submixes = 
@@ -1303,7 +1303,7 @@
 				},
 				{
 					name = "Voc 1/2"
-					value = 1.0
+					value = 0.0
 				},
 				{
 					name = "Beat Volume"
@@ -2413,10 +2413,10 @@
 				1.025914, 0.0, 0.0, 0.0,
 				0.0, 1.0, 0.0, 1.0,
 				0.0, 1.0, 1.0, 0.0,
-				0.0, 1.0, 0.486449, 1.0,
-				1.0, 0.0, 0.0, 1.0,
+				0.0, 1.0, 0.889969, 1.0,
+				0.0, 0.0, 0.0, 1.0,
 				0.0, 1.0, 0.0, 1.0,
-				1.0, 0.0, 0.0, 0.636361,
+				1.0, 0.0, 0.0, 0.81283,
 				2.203561, 1.0, 1.0, 1.0,
 				1.0, 1.0, 1.0, 1.0,
 				1.0, 1.467799, 1.0, 1.0,
